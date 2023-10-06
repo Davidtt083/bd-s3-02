@@ -73,15 +73,16 @@ a {
 
   width: 50%;
   height: 100vh;
-  padding-top: 10px;
+  padding-top: 75px;
   padding-left: 21px;
 }
 
 .negro {
   width: 50%;
   height: 100vh;
-  padding-top: 10px;
-  padding-right: 60px;
+  margin-left: 375px;
+  padding-top: 75px;
+  padding-left: 58px;
 
 }
 
@@ -137,7 +138,7 @@ a {
   color: rgba(0, 0, 0, 0);
   border-radius: 10px;
   width: 177px;
-  height: 74px;
+  height: 60px;
   margin: 20px;
   border: solid #fff 3px;
   cursor: pointer;
@@ -165,14 +166,14 @@ a {
 
 .btn1 {
   background-color: #0f102b;
-  font-size: 17px;
+  font-size: 12px;
   color: #ffffff;
 }
 
 .btn2 {
   background-color: #0f102b;
   line-height: 1;
-  font-size: 17px;
+  font-size: 12px;
   color: #ffffff;
   padding-top: 11px;
   padding-left: 2px;
@@ -595,10 +596,10 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 121px;
-  margin-left: 224px;
-  width: 50%;
-  height: 56%;
+  margin-top: 93px;
+  margin-left: 230px;
+  width: 94%;
+  height: 75%;
   color: #000000;
   border-radius: 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -610,6 +611,9 @@ a {
   text-align: justify;
   line-height: 21px;
   background-color: #fff;
+}
+h1{
+  line-height: 35px;
 }
 
 .texto2 {
@@ -731,9 +735,9 @@ li {
 
 
 .contelot {
-  width: 48%;
+  width: 99%;
   height: 218px;
-  background-color: rgba(255, 255, 255, 1);
+  /* background-color: rgba(255, 255, 255, 1); */
   color: #000000;
   border-radius: 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -744,9 +748,9 @@ li {
   align-content: center;
   /* text-align: justify; */
   line-height: 21px;
-  box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
+  /* box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75); */
+  /* -webkit-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75); */
+  /*-moz-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);*/
 }
 
 .contelot2 {
@@ -770,7 +774,7 @@ li {
 }
 
 .conte-parr {
-  width: 50%;
+  width: 86%;
 }
 .linea{
   position: absolute;
@@ -786,4 +790,13 @@ li {
   margin-left: 432px;
   width: 3px;
   height: 62px;
+}
+
+.logblanco{
+  position: relative;
+  width: 20%;
+}
+
+.tituboton{
+  width: 80%;
 }
